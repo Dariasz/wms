@@ -38,7 +38,6 @@ h2 span
 #about, #team, #service,
 #portfolio, #contact
 	{
-		padding-top: 60px;
 		padding-bottom: 40px;
 	}
 /* end about team service portfolio contact */
@@ -209,9 +208,9 @@ header .social-icon li a
 	{
 		background: url('../images/home-bg.png') no-repeat;
 		background-size: cover;
-		padding-top: 160px;
+		padding-top: 260px;
 		padding-bottom: 100px;
-		min-height: 650px;
+		min-height: 700px;
 	}
 #home h1
 	{
